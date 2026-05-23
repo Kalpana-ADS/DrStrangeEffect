@@ -2,7 +2,7 @@
 
 > Real-time hand tracking AR experience powered by MediaPipe, bringing the Mystic Arts to your browser.
 
-**Created by [Akshat Singh](https://github.com/Axshatt)**
+
 
 ---
 
